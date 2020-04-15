@@ -13,9 +13,9 @@ html, body {
 }
 
 a {
+  color: #666;
   text-decoration: none;
   background-color: transparent;
-  color: #666;
   transition: color 0.3s;
 }
 
@@ -35,9 +35,32 @@ a:hover {
 }
 
 .container {
-  width: 90%;
-  max-width: 700px;
+  width: 50%;
   margin: 0 auto;
+}
+
+.index .post-list,
+.friend-index .friend-list,
+.archives .post-list,
+.tag-index .tag-list,
+.about-index .markdown-body {
+  padding: 0 50px;
+}
+
+@media (max-width: 888px) {
+  .container {
+    width: 90%;
+  }
+  .index .post-list,
+  .friend-index .friend-list,
+  .archives .post-list,
+  .tag-index .tag-list,
+  .about-index .markdown-body {
+    padding: 0;
+  }
+  .post-catalog {
+    display: none;
+  }
 }
 
 .post-item {
@@ -169,10 +192,6 @@ a:hover {
   content: " )";
 }
 
-.friend-list {
-  padding-left: 30px;
-}
-
 .friend-list-item {
   font-size: 1.6rem;
   padding: 10px;
@@ -180,11 +199,6 @@ a:hover {
 
 .friend-list-item .nickname {
   padding-right: 10px;
-}
-
-.post-details {
-  width: 90%;
-  max-width: 800px;
 }
 
 .post-details .post-title {
@@ -213,4 +227,32 @@ a:hover {
   .tag-details .time-m-d, .archives .time-m-d {
     margin: 0 15px;
   }
+}
+
+.post-catalog {
+  position: absolute;
+  top: calc(290px + 88px + 30px);
+  right: 0;
+  min-width: 200px;
+  width: 20%;
+  font-size: 1.4rem;
+  border-left: 1px solid rgba(88,88,88,0.1);
+  padding-left: 10px;
+}
+
+.post-catalog .title {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.post-catalog .toc {
+  padding: 10px 0 0 10px;
+}
+
+.post-catalog ol li {
+  list-style-type: none;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  line-height: 2;
 }
