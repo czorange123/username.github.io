@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Oranges
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Zcheng
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://zchengsite.github.io/username.github.io/
 # root: /username.github.io
-root: /
+root: /username.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -81,5 +81,5 @@ theme: oranges
 deploy:
   type: git
   message: update
-  repo: https://github.com/czorange123/username.github.io.git
+  repo: https://github.com/zchengsite/username.github.io.git
   branch: gh-pages
