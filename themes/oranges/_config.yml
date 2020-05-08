@@ -70,12 +70,6 @@ navbar:
     name: 关于我
     enable: true
     path: /username.github.io/about/
-  -
-    # 启用rss需安装 hexo-generator-feed 插件
-    # 具体参照https://github.com/hexojs/hexo-generator-feed
-    name: rss
-    icon: rss
-    path: /username.github.io/atom.xml
 
 # 文章目录
 catalog:
@@ -132,7 +126,7 @@ footer:
       # 具体参照https://github.com/hexojs/hexo-generator-feed
       name: rss
       icon: rss
-      path: atom.xml
+      path: /username.github.io/atom.xml
 
   more:
     -
