@@ -11,7 +11,7 @@
   # friends: 友链
   # footer: 页脚信息
 
-# enable: 是否开启相应功能，可选true & false
+# enable: 是否开启相应功能，可选true || false
 
 # 网站图标
 favicon:
@@ -24,14 +24,13 @@ avatar:
   author_photo: /username.github.io/images/34339465.jpg
   author_nickname: Oranges
 
-# rss订阅
-rss:
-  enable: false
-
-# Google Analytics
+# Google 分析
+# https://analytics.google.com
+# 注册Google分析账号，在管理/创建媒体资源/选择网站/填写相关信息后得到跟踪Id，一般格式为UA-xxxxxxx-x
+# 如之前已有注册账号，在管理/跟踪信息/跟踪代码/找到跟踪ID，一般格式为UA-xxxxxxx-x
 gtag:
-  enable: false
-  gtagkey:
+  enable: true
+  gtagkey: UA-126364107-2
 
 # 文章评论系统
 comments:
@@ -41,7 +40,7 @@ comments:
   disqus:
     # https://disqus.com/
     # 注册账号，获取shortname.disqus.com，shortname为你定义的唯一name
-    # 举个例子：我注册配置完毕后的网址为zcheng.disqus.com，将zcheng填入即可
+    # 例：我注册配置完毕后的网址为zxcxxxx.disqus.com，zxcxxxx即为shortname
     enable: true
     shortname: username-github-io
 
@@ -71,6 +70,12 @@ navbar:
     name: 关于我
     enable: true
     path: /username.github.io/about/
+  -
+    # 启用rss需安装 hexo-generator-feed 插件
+    # 具体参照https://github.com/hexojs/hexo-generator-feed
+    name: rss
+    icon: rss
+    path: /username.github.io/atom.xml
 
 # 文章目录
 catalog:
@@ -82,8 +87,12 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Google
-    site: https://www.google.com/
+    nickname: Zcheng
+    site: https://zcheng.site/
+    meta:
+  -
+    nickname: Hexo
+    site: https://hexo.io/
     meta:
 
 # 页脚信息
@@ -118,6 +127,12 @@ footer:
       name: 微博
       icon: weibo
       path:
+    -
+      # rss需安装 hexo-generator-feed 插件
+      # 具体参照https://github.com/hexojs/hexo-generator-feed
+      name: rss
+      icon: rss
+      path: atom.xml
 
   more:
     -
