@@ -16,7 +16,7 @@ timezone:
 url: https://zchengsite.github.io/username.github.io/
 # root: /username.github.io
 root: /username.github.io/
-permalink: :year/:month/:day/:title/
+permalink: :title.html
 permalink_defaults:
 
 # Directory

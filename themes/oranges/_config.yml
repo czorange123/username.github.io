@@ -35,13 +35,32 @@ gtag:
 # 文章评论系统
 comments:
   enable: true
-  # 目前仅支持disqus评论
+  # 目前仅支持gitalk, valine, disqus评论，选择喜欢的一种开启即可
+
+  gitalk:
+    # https://github.com/gitalk/gitalk#usage查看官方教程
+    enable: false
+    clientID:
+    clientSecret:
+    repo:
+    owner:
+    admin:
+    id: location.pathname
+    distractionFreeMode: false
+
+  valine:
+    # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
+    # 进入以上网址查看官方教程
+    enable: true
+    appId: hBu0QWEVXpFBtMOQWUA0rOFM-gzGzoHsz
+    appKey: mTlm6m6xKpPI7Wtxj9KdFwdn
+
   # disqus 需科学上网方可使用
   disqus:
     # https://disqus.com/
     # 注册账号，获取shortname.disqus.com，shortname为你定义的唯一name
     # 例：我注册配置完毕后的网址为zxcxxxx.disqus.com，zxcxxxx即为shortname
-    enable: true
+    enable: false
     shortname: username-github-io
 
 # 主题页面导航栏
@@ -70,6 +89,12 @@ navbar:
     name: 关于我
     enable: true
     path: /username.github.io/about/
+  -
+    # 启用rss需安装 hexo-generator-feed 插件
+    # 具体参照https://github.com/hexojs/hexo-generator-feed
+    name: rss
+    icon: rss
+    path: /username.github.io/atom.xml
 
 # 文章目录
 catalog:
@@ -126,7 +151,7 @@ footer:
       # 具体参照https://github.com/hexojs/hexo-generator-feed
       name: rss
       icon: rss
-      path: /username.github.io/atom.xml
+      path: atom.xml
 
   more:
     -
