@@ -54,6 +54,9 @@ comments:
     enable: true
     appId: hBu0QWEVXpFBtMOQWUA0rOFM-gzGzoHsz
     appKey: mTlm6m6xKpPI7Wtxj9KdFwdn
+    placeholder: Welcome!
+    avatar: retro
+    vempty_display: false
 
   # disqus 需科学上网方可使用
   disqus:
