@@ -137,7 +137,7 @@ footer:
     -
       name: email
       icon: envelope
-      path:
+      path: 
     -
       name: facebook
       icon: facebooksquare
