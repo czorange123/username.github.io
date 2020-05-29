@@ -1,4 +1,4 @@
-title: Images
+title: Click on the image for details
 date: 2013-12-26 22:46:49
 ---
 
