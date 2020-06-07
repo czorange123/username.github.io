@@ -24,3 +24,18 @@ html, body {
   }
 }
 
+a {
+  color: #666;
+  text-decoration: none;
+  transition: 0.3s color ease;
+  &:hover {
+    color: black;
+  }
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+}
+
+@import "_partial/header.scss"
