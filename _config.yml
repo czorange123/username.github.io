@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Oranges
+title: Slime
 subtitle:
 description:
 keywords:
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: oranges
+theme: slime
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -83,3 +83,24 @@ deploy:
   message: update
   repo: https://github.com/zchengsite/username.github.io.git
   branch: gh-pages
+
+# rss订阅
+# hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+
+# scss syntax
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
