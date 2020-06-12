@@ -17,13 +17,13 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /username.github.io/images/favicon.ico
-  touch_icon: /username.github.io/images/favicon.ico
+  icon: /images/favicon.ico
+  touch_icon: /images/favicon.ico
 
 # 用户头像与昵称
 avatar:
   author_photo: /username.github.io/images/34339465.jpg
-  author_nickname: Oranges
+  author_nickname: Slime
 
 # Google 分析
 # https://analytics.google.com

@@ -22,7 +22,17 @@ header {
     }
     .site-nav-left {
       .site-logo {
+        display: flex;
+        align-items: center;
+        .avatar {
+          padding-right: 10px;
+          img {
+            max-height: 60px;
+            max-width: 60px;
+          }
+        }
         span {
+          color: #666;
           font-size: 1.9rem;
           font-weight: 600;
         }
