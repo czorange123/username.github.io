@@ -27,8 +27,8 @@ header {
         .avatar {
           padding-right: 10px;
           img {
-            max-height: 60px;
-            max-width: 60px;
+            max-height: 50px;
+            max-width: 50px;
           }
         }
         span {
@@ -38,13 +38,20 @@ header {
         }
       }
     }
-    .site-nav-right {
-      display: flex;
+    .site-nav-center {
       .nav-options {
         display: flex;
-        font-size: 1.1rem;
+        font-size: 1rem;
         ul li {
           padding: 5px;
+          margin-right: 10px;
+        }
+      }
+    }
+    .site-nav-right {
+      .nav-others {
+        ul li {
+          // padding: 5px;
           margin-right: 10px;
         }
       }
