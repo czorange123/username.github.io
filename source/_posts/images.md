@@ -1,5 +1,8 @@
 title: Click on the image for details
 date: 2013-12-26 22:46:49
+tags:
+- images testing
+
 ---
 
 This is a image test post.

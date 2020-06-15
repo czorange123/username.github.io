@@ -4,6 +4,7 @@ date: 2019-07-25 16:43:00
 tags:
 - highlight test
 categories:
+- highlight
 ---
 
 Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of https://highlightjs.org

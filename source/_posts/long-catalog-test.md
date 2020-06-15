@@ -5,11 +5,8 @@ tags:
 - catalog-text
 - more
 - tags
-- tags1
-- tags2
-- tags3
 categories:
-- [the level 1 category, the level 2 category]
+- [the level 1, the level 2]
 ---
 
 # one
