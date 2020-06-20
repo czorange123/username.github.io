@@ -8,7 +8,11 @@ header {
   height: 5rem;
   z-index: 10;
   background-color: #fff;
-  // box-shadow: rgba(216, 222, 233, 0.15) 0px 5px 10px 0px;
+  transition: height 0.3s ease-in-out, box-shadow 0.3s ease;
+  &.not-at-the-top {
+    height: 3.5rem;
+    box-shadow: 0px 5px 10px 0px #fbfbfc;
+  }
   .site-nav {
     max-width: 80rem;
     height: 100%;
