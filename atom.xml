@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oranges</title>
+  <icon>https://zchengsite.github.io/username.github.io/icon.png</icon>
+  
+  <link href="/username.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zchengsite.github.io/username.github.io/"/>
+  <updated>2020-05-25T01:40:30.491Z</updated>
+  <id>https://zchengsite.github.io/username.github.io/</id>
+  
+  <author>
+    <name>Zcheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极简主义主题 - Oranges</title>
+    <link href="https://zchengsite.github.io/username.github.io/minimalist-theme-oranges.html"/>
+    <id>https://zchengsite.github.io/username.github.io/minimalist-theme-oranges.html</id>
+    <published>2020-04-18T03:08:18.000Z</published>
+    <updated>2020-05-25T01:40:30.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;初衷&quot;&gt;&lt;a href=&quot;#初衷&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo主题设计" scheme="https://zchengsite.github.io/username.github.io/categories/hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="hexo" scheme="https://zchengsite.github.io/username.github.io/tags/hexo/"/>
+    
+      <category term="主题" scheme="https://zchengsite.github.io/username.github.io/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zchengsite.github.io/username.github.io/hello-world.html"/>
+    <id>https://zchengsite.github.io/username.github.io/hello-world.html</id>
+    <published>2020-03-11T06:19:04.000Z</published>
+    <updated>2020-06-19T05:38:07.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Welcome" scheme="https://zchengsite.github.io/username.github.io/categories/Welcome/"/>
+    
+      <category term="欢迎" scheme="https://zchengsite.github.io/username.github.io/categories/Welcome/%E6%AC%A2%E8%BF%8E/"/>
+    
+      <category term="Welcome" scheme="https://zchengsite.github.io/username.github.io/categories/Welcome/Welcome/"/>
+    
+      <category term="환영 합니다" scheme="https://zchengsite.github.io/username.github.io/categories/Welcome/%ED%99%98%EC%98%81-%ED%95%A9%EB%8B%88%EB%8B%A4/"/>
+    
+      <category term="いらっしゃいませ" scheme="https://zchengsite.github.io/username.github.io/categories/Welcome/%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B/"/>
+    
+    
+      <category term="Welcome" scheme="https://zchengsite.github.io/username.github.io/tags/Welcome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>long-catalog-test</title>
+    <link href="https://zchengsite.github.io/username.github.io/long-catalog-test.html"/>
+    <id>https://zchengsite.github.io/username.github.io/long-catalog-test.html</id>
+    <published>2020-03-10T01:01:41.000Z</published>
+    <updated>2020-06-19T05:38:07.575Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;one&quot;&gt;&lt;a href=&quot;#one&quot; class=&quot;headerlink&quot; title=&quot;one&quot;&gt;&lt;/a&gt;one&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; consectetur
+        
+      
+    
+    </summary>
+    
+    
+      <category term="the level 1" scheme="https://zchengsite.github.io/username.github.io/categories/the-level-1/"/>
+    
+      <category term="the level 2" scheme="https://zchengsite.github.io/username.github.io/categories/the-level-1/the-level-2/"/>
+    
+    
+      <category term="catalog-text" scheme="https://zchengsite.github.io/username.github.io/tags/catalog-text/"/>
+    
+      <category term="more" scheme="https://zchengsite.github.io/username.github.io/tags/more/"/>
+    
+      <category term="tags" scheme="https://zchengsite.github.io/username.github.io/tags/tags/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Code Highlight Style test</title>
+    <link href="https://zchengsite.github.io/username.github.io/code-highlight.html"/>
+    <id>https://zchengsite.github.io/username.github.io/code-highlight.html</id>
+    <published>2019-07-25T08:43:00.000Z</published>
+    <updated>2020-06-19T05:38:07.471Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;a href=&quot;https://highlightjs.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://highlightjs.org&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="highlight" scheme="https://zchengsite.github.io/username.github.io/categories/highlight/"/>
+    
+    
+      <category term="highlight test" scheme="https://zchengsite.github.io/username.github.io/tags/highlight-test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown Style test</title>
+    <link href="https://zchengsite.github.io/username.github.io/markdown.html"/>
+    <id>https://zchengsite.github.io/username.github.io/markdown.html</id>
+    <published>2018-07-24T15:31:06.000Z</published>
+    <updated>2020-06-19T05:38:07.589Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This post is originated from &lt;a href=&quot;https://gist.github.com/apackeer/4159268&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="https://zchengsite.github.io/username.github.io/categories/Markdown/"/>
+    
+    
+      <category term="Foo" scheme="https://zchengsite.github.io/username.github.io/tags/Foo/"/>
+    
+      <category term="Bar" scheme="https://zchengsite.github.io/username.github.io/tags/Bar/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Click on the image for details</title>
+    <link href="https://zchengsite.github.io/username.github.io/images.html"/>
+    <id>https://zchengsite.github.io/username.github.io/images.html</id>
+    <published>2013-12-26T14:46:49.000Z</published>
+    <updated>2020-06-19T05:38:07.539Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/username.github.io/images/wallpaper-2572384.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="images testing" scheme="https://zchengsite.github.io/username.github.io/tags/images-testing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>no-title</title>
+    <link href="https://zchengsite.github.io/username.github.io/no-title.html"/>
+    <id>https://zchengsite.github.io/username.github.io/no-title.html</id>
+    <published>2013-12-25T14:57:49.000Z</published>
+    <updated>2020-04-24T11:02:13.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post doesn’t have a title. Make sure it’s
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Excerpts</title>
+    <link href="https://zchengsite.github.io/username.github.io/excerpts.html"/>
+    <id>https://zchengsite.github.io/username.github.io/excerpts.html</id>
+    <published>2013-12-24T16:23:23.000Z</published>
+    <updated>2020-06-19T05:38:07.501Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Excerpts" scheme="https://zchengsite.github.io/username.github.io/tags/Excerpts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test the video playback plug-in</title>
+    <link href="https://zchengsite.github.io/username.github.io/videos.html"/>
+    <id>https://zchengsite.github.io/username.github.io/videos.html</id>
+    <published>2013-12-24T16:19:15.000Z</published>
+    <updated>2020-05-29T05:39:45.175Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a video test post.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gallery Post</title>
+    <link href="https://zchengsite.github.io/username.github.io/gallery-post.html"/>
+    <id>https://zchengsite.github.io/username.github.io/gallery-post.html</id>
+    <published>2013-12-24T16:16:18.000Z</published>
+    <updated>2020-06-19T05:38:07.514Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post contains 4 photos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Portrait photo&lt;/li&gt;
+&lt;li&gt;Dual widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Small
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Gallery Post" scheme="https://zchengsite.github.io/username.github.io/tags/Gallery-Post/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tag Plugins</title>
+    <link href="https://zchengsite.github.io/username.github.io/tag-plugins.html"/>
+    <id>https://zchengsite.github.io/username.github.io/tag-plugins.html</id>
+    <published>2013-12-24T16:14:39.000Z</published>
+    <updated>2020-04-24T11:02:13.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post is used for testing tag plugins. See &lt;a href=&quot;http://zespia.tw/hexo/docs/tag-plugins.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>www.google.com</title>
+    <link href="https://zchengsite.github.io/username.github.io/link-post-without-title.html"/>
+    <id>https://zchengsite.github.io/username.github.io/link-post-without-title.html</id>
+    <published>2013-12-24T15:44:13.000Z</published>
+    <updated>2020-06-19T05:38:07.551Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="link testing" scheme="https://zchengsite.github.io/username.github.io/tags/link-testing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日本語テスト</title>
+    <link href="https://zchengsite.github.io/username.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88.html"/>
+    <id>https://zchengsite.github.io/username.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88.html</id>
+    <published>2013-12-24T15:33:26.000Z</published>
+    <updated>2020-06-19T05:38:07.621Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a Japanese test
+        
+      
+    
+    </summary>
+    
+    
+      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/categories/language-testing/"/>
+    
+    
+      <category term="日本語テスト" scheme="https://zchengsite.github.io/username.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    
+      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/tags/language-testing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中文測試</title>
+    <link href="https://zchengsite.github.io/username.github.io/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6.html"/>
+    <id>https://zchengsite.github.io/username.github.io/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6.html</id>
+    <published>2013-12-24T15:31:30.000Z</published>
+    <updated>2020-06-19T05:38:07.609Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a Chinese test
+        
+      
+    
+    </summary>
+    
+    
+      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/categories/language-testing/"/>
+    
+    
+      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/tags/language-testing/"/>
+    
+      <category term="中文測試" scheme="https://zchengsite.github.io/username.github.io/tags/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
+    <link href="https://zchengsite.github.io/username.github.io/long-title.html"/>
+    <id>https://zchengsite.github.io/username.github.io/long-title.html</id>
+    <published>2013-12-24T15:31:06.000Z</published>
+    <updated>2020-04-24T11:02:13.913Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post has a long title. Make sure the title displayed
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Categories</title>
+    <link href="https://zchengsite.github.io/username.github.io/categories.html"/>
+    <id>https://zchengsite.github.io/username.github.io/categories.html</id>
+    <published>2013-12-24T15:30:09.000Z</published>
+    <updated>2020-06-19T05:38:07.459Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Foo" scheme="https://zchengsite.github.io/username.github.io/categories/Foo/"/>
+    
+      <category term="Bar" scheme="https://zchengsite.github.io/username.github.io/categories/Foo/Bar/"/>
+    
+    
+      <category term="Categories" scheme="https://zchengsite.github.io/username.github.io/tags/Categories/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Link Post</title>
+    <link href="https://zchengsite.github.io/username.github.io/link-post.html"/>
+    <id>https://zchengsite.github.io/username.github.io/link-post.html</id>
+    <published>2013-12-24T15:30:04.000Z</published>
+    <updated>2020-06-19T05:38:07.563Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a link post. Clicking on the link should open &lt;a href=&quot;http://www.google.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google&lt;/a&gt; in a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="link testing" scheme="https://zchengsite.github.io/username.github.io/tags/link-testing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test label display</title>
+    <link href="https://zchengsite.github.io/username.github.io/tags.html"/>
+    <id>https://zchengsite.github.io/username.github.io/tags.html</id>
+    <published>2013-12-24T15:29:53.000Z</published>
+    <updated>2020-05-29T05:40:40.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Foo" scheme="https://zchengsite.github.io/username.github.io/tags/Foo/"/>
+    
+      <category term="Bar" scheme="https://zchengsite.github.io/username.github.io/tags/Bar/"/>
+    
+      <category term="Baz" scheme="https://zchengsite.github.io/username.github.io/tags/Baz/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Elements</title>
+    <link href="https://zchengsite.github.io/username.github.io/elements.html"/>
+    <id>https://zchengsite.github.io/username.github.io/elements.html</id>
+    <published>2013-12-24T15:29:08.000Z</published>
+    <updated>2020-06-19T05:38:07.487Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Elements" scheme="https://zchengsite.github.io/username.github.io/tags/Elements/"/>
+    
+  </entry>
+  
+</feed>
