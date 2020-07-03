@@ -9,5 +9,17 @@ function handlerScroll() {
   }
 }
 
+function backToTop() {
+  setTimeout(() => {
+    if(document.body.scrollTop > 0) {
+      window.scrollTo(0, -1);
+      document.body.scrollTop = 0;
+    }
+    window.scrollTo(0, -1);
+    document.body.scrollTop = 0;
+  }, 0)
+}
+
 handlerScroll();
 document.addEventListener('scroll', handlerScroll, false);
+window.addEventListener('load', backToTop, false);

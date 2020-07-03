@@ -24,8 +24,9 @@
                 <% } %>
               </a>
             </h3>
-            <p class="date"><%- item.date.format("YYYY-MM-DD") %></p>
-            <p><%- item.excerpt %></p>
+            <p class="post-date">post on <%- item.date.format("YYYY-MM-DD") %> · update on <%- item.updated.format("YYYY-MM-DD") %></p>
+            <% _content_excerpt = item.excerpt %>
+            <p class="post-excerpt"><%- _content_excerpt %></p>
           </div>
         </div>
       <% }) %>
