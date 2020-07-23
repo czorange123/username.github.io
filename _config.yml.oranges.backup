@@ -24,6 +24,7 @@ favicon:
 avatar:
   author_photo: /username.github.io/images/avatar.png
   author_nickname: Oranges
+  path: /username.github.io
 
 # Google 分析
 # https://analytics.google.com
