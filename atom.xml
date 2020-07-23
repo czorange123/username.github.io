@@ -171,7 +171,6 @@
         
         
           &lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/username.github.io/images/wallpaper-2572384.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img
         
       
@@ -352,9 +351,9 @@
       <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/categories/language-testing/"/>
     
     
-      <category term="日本語テスト" scheme="https://zchengsite.github.io/username.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    
       <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/tags/language-testing/"/>
+    
+      <category term="日本語テスト" scheme="https://zchengsite.github.io/username.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
     
   </entry>
   
@@ -381,9 +380,9 @@
       <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/categories/language-testing/"/>
     
     
-      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/tags/language-testing/"/>
-    
       <category term="中文測試" scheme="https://zchengsite.github.io/username.github.io/tags/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    
+      <category term="language testing" scheme="https://zchengsite.github.io/username.github.io/tags/language-testing/"/>
     
   </entry>
   
