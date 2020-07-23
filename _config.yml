@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Slime
+title: Oranges
 subtitle:
 description:
 keywords:
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zchengsite.github.io/username.github.io/
 # root: /username.github.io
-root: /
+root: /username.github.io
 permalink: :title.html
 permalink_defaults:
 
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: slime
+theme: oranges
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -104,3 +104,9 @@ node_sass:
   outputStyle: nested
   precision: 5
   sourceComments: false
+
+lazyload:
+  enable: true
+  onlypost: false # optional
+  loadingImg: # optional eg ./images/loading.gif
+  isSPA: false # optional
