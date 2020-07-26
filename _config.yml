@@ -108,5 +108,5 @@ node_sass:
 lazyload:
   enable: true
   onlypost: false # optional
-  loadingImg: # optional eg ./images/loading.gif
+  loadingImg: /username.github.io/images/another/image-loading.svg
   isSPA: false # optional
