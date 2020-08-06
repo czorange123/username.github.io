@@ -24,22 +24,14 @@ main {
       }
     }
   }
-  // .site-line-slash {
-  //   height: 3.5rem;
-  //   width: 100%;
-  //   &::after {
-  //     content: "";
-  //     border: solid gray;
-  //     border-top-color: #fff;
-  //     border-left-color: #fff;
-  //     border-top-width: 3.5rem;
-  //     border-bottom-width: 3.5rem;
-  //     border-left-width: 50%;
-  //     border-right-width: 50%;
-  //   }
-  // }
+  .site-line-slash {
+    height: 3.5rem;
+    width: 100%;
+    background-color: #f8f9fb;
+    border-radius: 100% 0 0 0 / 100% 0 0 0;
+  }
   .site-posts {
-    background-color: #fff;
+    background-color: #f8f9fb;
     .post-list {
       max-width: 60rem;
       margin: 0 auto;
