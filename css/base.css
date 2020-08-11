@@ -87,9 +87,11 @@ a:hover {
   }
   .post-catalog {
     opacity: 0;
+    z-index: -1;
   }
   .back-to-top {
     opacity: 0;
+    z-index: -1;
   }
 }
 
@@ -229,7 +231,6 @@ a:hover {
 }
 
 .post-navigation i {
-  color: #000;
   font-weight: 600;
 }
 
