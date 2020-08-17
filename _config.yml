@@ -13,9 +13,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zchengsite.github.io/username.github.io/
+url: https://hexo.theme.oranges.zcheng.site/
 # root: /username.github.io
-root: /username.github.io
+root: /
 permalink: :title.html
 permalink_defaults:
 
@@ -111,5 +111,5 @@ node_sass:
 lazyload:
   enable: true
   onlypost: false # optional
-  loadingImg: /username.github.io/images/another/image-loading.svg
+  loadingImg: https://qiniu.zcheng.site/image-loading.svg
   isSPA: false # optional

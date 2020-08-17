@@ -7,10 +7,10 @@ tags:
 
 This is a image test post.
 
-![](/username.github.io/images/wallpaper-2572384.jpg)
+![](/images/wallpaper-2572384.jpg)
 
-![Caption](/username.github.io/images/wallpaper-2311325.jpg)
+![Caption](/images/wallpaper-2311325.jpg)
 
-![](/username.github.io/images/wallpaper-878514.jpg)
+![](/images/wallpaper-878514.jpg)
 
 ![Small Picture](https://placehold.it/350x150.jpg)
