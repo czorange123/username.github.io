@@ -81,8 +81,11 @@ theme: oranges
 deploy:
   type: git
   message: update
-  repo: https://github.com/zchengsite/username.github.io.git
-  branch: gh-pages
+  # repo: https://github.com/zchengsite/username.github.io.git
+  # branch: gh-pages
+
+  repo: root@158.247.195.121:/var/www/username.github.io.git
+  branch: master
 
 # rss订阅
 # hexo-generator-feed
