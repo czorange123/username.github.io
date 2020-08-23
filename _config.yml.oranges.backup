@@ -55,8 +55,8 @@ comments:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
     enable: true
-    appId: hBu0QWEVXpFBtMOQWUA0rOFM-gzGzoHsz
-    appKey: mTlm6m6xKpPI7Wtxj9KdFwdn
+    appId: f4sa0UVdHN3leGJSNqAhQGgK-gzGzoHsz
+    appKey: FN7RGB3rASx8D9rSnkOc6gIT
     placeholder: Welcome!
     avatar: retro
     vempty_display: false
