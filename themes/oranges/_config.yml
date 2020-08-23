@@ -11,6 +11,7 @@
   # prevnext: 文章末尾的上一页与下一页
   # friends: 友链
   # footer: 页脚信息
+  # search: 文章搜索
 
 # enable: 是否开启相应功能，可选true || false
 
@@ -54,8 +55,8 @@ comments:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
     enable: true
-    appId: f4sa0UVdHN3leGJSNqAhQGgK-gzGzoHsz
-    appKey: FN7RGB3rASx8D9rSnkOc6gIT
+    appId: hBu0QWEVXpFBtMOQWUA0rOFM-gzGzoHsz
+    appKey: mTlm6m6xKpPI7Wtxj9KdFwdn
     placeholder: Welcome!
     avatar: retro
     vempty_display: false
@@ -169,3 +170,8 @@ footer:
     -
       name: Theme by Oranges | Powered by Hexo
       path: https://github.com/zchengsite/hexo-theme-oranges
+
+# 文章搜索
+search:
+  enable: true
+  placeholder: 搜索...

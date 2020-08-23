@@ -113,3 +113,8 @@ lazyload:
   onlypost: false # optional
   loadingImg: https://qiniu.zcheng.site/image-loading.svg
   isSPA: false # optional
+
+search:
+  path: search.xml
+  field: post
+  content: true
