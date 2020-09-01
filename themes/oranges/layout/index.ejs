@@ -1,48 +1,14 @@
 <div class="container index">
   <div class="post-list">
-    <!-- 处理文章列表 -->
-    <%
-    var sitePostList = []
-    var pagePostList = []
-    var topPostList = []
-
-    <!-- page.posts转换为Array对象 -->
-    page.posts.sort('date', -1).forEach(function(item) {
-      pagePostList.push(item)
-    })
-
-    <!-- site.posts转换为Array对象 -->
-    site.posts.sort('date', -1).forEach(function(item) {
-      sitePostList.push(item)
-    })
-
-    <!-- 移除标记为top的文章并存入topPostList中 -->
-    sitePostList.forEach(function(item, index) {
-      if (item.top) {
-        console.log(item.title)
-        sitePostList.splice(index, 1)
-        topPostList.push(item)
-        if (pagePostList.indexOf(item) !== -1) {
-          pagePostList.splice(pagePostList.indexOf(item), 1)
-        }
-      }
-    })
-
-    <!-- 按时间排序标记为top的文章并插入到pagePostList中 -->
-    topPostList.reverse().forEach(function(item) {
-      pagePostList.unshift(item)
-    })
-
-    %>
     <!-- 遍历渲染文章 -->
-    <% pagePostList.forEach(function(item) { %>
+    <% page.posts.forEach(function(item) { %>
       <div class="post-item" title="<%- item.title %>">
         <div class="time-m-d"><%- item.date.format("YYYY-MM-DD") %></div>
         <div class="title">
           <a href="<%- url_for(item.path) %>">
             <% if(item.title !== "") { %>
               <% if (item.top) { %>
-                <span><b>[置顶]</b> <%- item.title %></span>
+                <span><span title="at the top" class="icon iconfont icon-pin-top post-top"></span><%- item.title %></span>
               <% } else { %>
                 <span><%- item.title %></span>
               <% } %>
